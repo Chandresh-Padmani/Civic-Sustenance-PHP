@@ -23,7 +23,4 @@ Credential for admin panel :
 Username: admin 
 Password: Test@123
 
-Credential for user panel :
-
-Username: anuj.lpu1@gmail.com
-Password: Test@123
+========================================================================================
